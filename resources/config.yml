@@ -1,0 +1,5 @@
+---
+command_blocked: "§c> Эта команда заблокирована."
+commands:
+  - version
+...
